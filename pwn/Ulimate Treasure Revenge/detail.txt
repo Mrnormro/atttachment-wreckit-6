@@ -1,0 +1,3 @@
+mending turu
+
+ada 2 intended solution. bisa overwrite libc pointer di got dan bisa juga srop
